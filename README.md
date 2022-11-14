@@ -1,4 +1,4 @@
 # AvacadcoDashboardPowerBI 
 
 
-![](AvacadcoDashboardPowerBI/AvacadoDashboard.png)
+![](warrenduong/AvacadcoDashboardPowerBI.pdf)
