@@ -1,4 +1,4 @@
 # AvacadcoDashboardPowerBI 
 
 
-![AvacadoDashboard](https://user-images.githubusercontent.com/37064305/201776364-5f953a66-9b17-4487-9d05-81a4fc1fc005.png)
+![AvacadoDashboard](https://user-images.githubusercontent.com/37064305/201819417-936f3b7c-bdc9-418d-a8b0-5d09be98649f.png)
